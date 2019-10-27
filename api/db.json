@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Title 1",
+      "description": "Description 1",
+      "id": 1
+    },
+    {
+      "title": "Title 2",
+      "description": "Hello! this is description for title 2",
+      "id": 2
+    },
+    {
+      "title": "Stream with ID inserted",
+      "description": "Description  for Stream with ID inserted",
+      "userId": "101089419299165182478",
+      "id": 4
+    },
+    {
+      "title": "Title Deleted",
+      "description": "Description Deleted",
+      "userId": "101089419299165182478",
+      "id": 5
+    }
+  ]
+}
