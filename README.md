@@ -8,7 +8,9 @@ App create to fetch all streams, and player can live stream themself
 
 **Run the project:** <br/>
 -add your google client_id in src/components/GoogleAuth.js <br/>
--run the json-server (json-server -p 3001 -w db.json)  <br/>
--run rtmp server (node index.js) 
+-cd /client-side -> npm install -> npm start
+
+-cd /api -> run the json-server (json-server -p 3001 -w db.json)  <br/>
+-cd /rtmpserver -> run rtmp server (node index.js) 
 
 Reference: Modern React with Redux [2019 Update]- Stephen Grinder
